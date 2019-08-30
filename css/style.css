@@ -16,7 +16,7 @@ body {
   }
   
   .completed {
-    font-family: 12px;
+    font-size: 12px;
   }
   
   #tasks .completed {
